@@ -1,0 +1,6 @@
+openai
+instructor
+pydantic
+python-dotenv
+tenacity
+aiohttp
