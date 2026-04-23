@@ -1,6 +1,3 @@
-Here is the `README.md` content formatted inside a markdown code block so you can easily copy and paste it. 
-
-```markdown
 # Lab 1: GenAI for ETL & Unstructured Data Extraction
 
 ## Objective
